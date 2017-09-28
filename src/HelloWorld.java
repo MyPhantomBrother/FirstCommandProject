@@ -8,7 +8,7 @@ public class HelloWorld {
         return a * 2;
     }
 
-    //Another method added
+    //Another method added!
     public int anotherSmth(int b) {
         return b * 3;
     }
