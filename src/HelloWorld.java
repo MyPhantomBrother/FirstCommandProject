@@ -14,4 +14,10 @@ public class HelloWorld {
     }
     
     //Hello from github.com
+
+    //Hello from Phantom local branch Task1
+    //Third method added!!!
+    public int thirdMethod(int c) {
+        return c * 5;
+    }
 }
