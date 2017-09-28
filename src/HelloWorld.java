@@ -14,4 +14,9 @@ public class HelloWorld {
     }
     
     //Hello from github.com
+
+    //Third method added!!!
+    public int thirdMethod(int c) {
+        return c * 5;
+    }
 }
