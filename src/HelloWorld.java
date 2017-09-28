@@ -7,4 +7,9 @@ public class HelloWorld {
     public int countSmth(int a) {
         return a * 2;
     }
+
+    //Another method added
+    public int anotherSmth(int b) {
+        return b * 3;
+    }
 }
