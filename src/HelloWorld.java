@@ -12,4 +12,6 @@ public class HelloWorld {
     public int anotherSmth(int b) {
         return b * 3;
     }
+    
+    //Hello from github.com
 }
