@@ -23,6 +23,11 @@ public class HelloWorld {
     }
     
     //We have some changes in master repo
-    //First
-    //Ass
+
+    private double fourthMethod() {
+        System.out.println("Hello me!");
+        return 5;
+    }
+
+    //Hello from develop branch!!!
 }
