@@ -23,6 +23,5 @@ public class HelloWorld {
     }
     
     //We have some changes in master repo
-    //First
-    //Second comment
+    //First + amend
 }
