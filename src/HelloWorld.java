@@ -25,7 +25,7 @@ public class HelloWorld {
     //We have some changes in master repo
 
     private double fourthMethod() {
-        System.out.println("Hello me");
+        System.out.println("Hello me!");
         return 5;
     }
 }
