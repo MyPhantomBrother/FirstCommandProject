@@ -28,4 +28,10 @@ public class HelloWorld {
         System.out.println("Hello me!");
         return 5;
     }
+
+
+    private double fifthMethod() {
+        System.out.println("Hello again!");
+        return 6;
+    }
 }
