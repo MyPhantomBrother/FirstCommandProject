@@ -19,5 +19,8 @@ public class HelloWorld {
     //Third method added!!!
     public int thirdMethod(int c) {
         return c * 5;
+        //
     }
+    
+    //We have some changes in master repo
 }
